@@ -4,13 +4,13 @@
 
 # (---user side---)
 
-http://localhost/projectdone/
+http://localhost/ArtisticExchange/
 
 user can create an account before shoping
 
 # (--- admin side ----)
 
-http://localhost/projectdone/admin/admin_login.php
+http://localhost/ArtisticExchange/admin/admin_login.php
 
 admin_id = asutosh
 password = 1234
